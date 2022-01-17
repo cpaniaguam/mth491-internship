@@ -3,7 +3,7 @@
 ### Internship Supervisor
 Traci Strohl, Treasurer/Intern Supervisor, PDP Committee - johnpl@cox.net
 ### Faculty Sponsor
-Carlos Paniagua, Assistant Professor of Mathematical Sciences - carlos.paniagua@salve.edu.
+Carlos Paniagua, Assistant Professor of Mathematical Sciences - carlos.paniagua@salve.edu
 
 ## Description
 The Portsmouth Dog Park (PDP) committee is working an expansion project to allow for increased access to the current dog park. The PDP Committee has initiated a year-long data collection effort and analysis project underwritten by the van Beuren Charitable Foundation (VBCF) to determine a benchmark for monitoring park attendance. The results of this project will be incorporated into reporting to VBCF and used in support of PDP expansion efforts.
@@ -42,6 +42,17 @@ Upon completion of the intership activites, the participants will be able to
 ## Evaluation
 
 Pass/Fail with 60% assessed by internship supervisor and 40% by faculty sponsor. Minimum  performance of 80% required for a passing grade.
+
+## Other Policies (COVID)
+This course has been designed to support students in their efforts to meet stated course outcomes. Course delivery may be altered by unexpected events or extenuating circumstances beyond the control of the professor; however, instruction will continue, and the learning goals will remain. If change in delivery or venue is required, faculty will provide protocols to students.
+
+### Classroom Expectations
+In compliance with the University’s continuing covid plan, students must comply with the most recent masking requirements. Students are not permitted to consume any food or beverage during in-person instruction. Students are required to sit in their assigned seats during class. Students should not reconfigure classroom furniture and will have the option to clean their seating areas upon arriving and departing the classroom; supplies will be provided in all classrooms. Faculty members will ask students to leave the classroom if they are unable to comply with these regulations.
+
+### Policy for Isolated or Quarantined Students
+If a student learns that they are required to isolate/quarantine (due to a positive covid test or a close contact), they must immediately email their instructors to notify them of the duration of the isolation/quarantine and to request appropriate academic support so that the student can continue in the course. Instructors will reply with an outline of the supports to be provided.
+
+If a student experiences significant disruption to their learning due to multiple periods of required isolation/quarantine, they should work with the instructor and the dean of undergraduate studies to come to a resolution.
 
 ## Use of Salve Email
 
