@@ -27,7 +27,7 @@ The participants and factulty sponsor will have 1 hour of contact (online/in per
   <li>Deliver a data product (dashboard) and curated data (repository) for the end-users leveraging appropriate technology.</li>
 </ol>
 
-# Learning Outcomes
+## Learning Outcomes
 
 Upon completion of the intership activites, the participants will be able to
 - Desing a concrete obsevational research study.
@@ -39,7 +39,7 @@ Upon completion of the intership activites, the participants will be able to
 -  Communicate results of the study to stakeholders via written reports and visualizations.
 -  Design and build a data product (dashboard) to communicate the study's results.
 
-# Evaluation
+## Evaluation
 
 Pass/Fail with 60% assessed by internship supervisor and 40% by faculty sponsor. Minimum  performance of 80% required for a passing grade.
 
