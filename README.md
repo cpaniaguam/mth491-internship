@@ -9,10 +9,10 @@ Carlos Paniagua, Assistant Professor of Mathematical Sciences - carlos.paniagua@
 The Portsmouth Dog Park (PDP) committee is working an expansion project to allow for increased access to the current dog park. The PDP Committee has initiated a year-long data collection effort and analysis project underwritten by the van Beuren Charitable Foundation (VBCF) to determine a benchmark for monitoring park attendance. The results of this project will be incorporated into reporting to VBCF and used in support of PDP expansion efforts.
 
 ## Hours at the job site
-The participants are expected to work on the activities 105 hours (about 8 hours per week during 13 weeks) both at the job site and remotely from about January 24th to April 22nd, 2022.
+The participants are expected to work on the activities 105 hours (about 8 hours per week for about 13 weeks) both at the job site and remotely from about January 24th to April 22nd, 2022.
 
 ## Contact hours with faculty
-The participants and factulty sponsor will have 1 hour of contact (online/in person) distributed as necessary every two weeks to discuss progress of the internship activities.
+The participants and faculty sponsor will have 1 hour of contact (online/in person) distributed as necessary every two weeks to discuss progress of the internship activities.
 
 ## Activities
 
@@ -29,8 +29,8 @@ The participants and factulty sponsor will have 1 hour of contact (online/in per
 
 ## Learning Outcomes
 
-Upon completion of the intership activites, the participants will be able to
-- Desing a concrete obsevational research study.
+Upon completion of the internship activities, the participants will be able to
+- Design a concrete observational research study.
 - Conduct data collection using adequate sampling techniques to ensure data is representative of the target population.
 -  Identify and solve potential issues with the data collection process.
 -  Select appropriate technology for analysis and visualization of the data.
